@@ -1,0 +1,41 @@
+{
+    "cartId": "EKfvj6kVktyxk89CY1kxA7sfJsB4GGaP",
+    "billingAddress": {
+        "countryId": "IE",
+        "region": "",
+        "street": [
+            "Disney road",
+            "Cork Road"
+        ],
+        "company": "",
+        "telephone": "",
+        "postcode": "X91HX8N",
+        "city": "Disneyworld",
+        "firstname": "Mickey",
+        "lastname": "Mouse",
+        "saveInAddressBook": 1
+    },
+    "paymentMethod": {
+        "method": "pubsvs_cc",
+        "additional_data": {
+            "digest": "",
+            "token": "",
+            "cid_token": "",
+            "cc_cid": "123",
+            "cc_ss_start_month": "",
+            "cc_ss_start_year": "",
+            "cc_ss_issue": "",
+            "cc_type": "VI",
+            "cc_exp_year": "2022",
+            "cc_exp_month": "2",
+            "cc_number": "4111 1111 1111 1111",
+            "cc_owner": "Mickey Mouse",
+            "isPlaceOrderButtonEnabled": true
+        },
+        "extension_attributes": {
+            "autorenew_agreement_checked": false
+        }
+    },
+    "email": "test@test.com",
+    "url":"https://staging3.mag.pubsvs.com/rest/staging_3/V1/guest-carts/EKfvj6kVktyxk89CY1kxA7sfJs"
+}
